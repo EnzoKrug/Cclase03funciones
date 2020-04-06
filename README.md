@@ -1,4 +1,4 @@
-# Villegas Octavio
+# Krug Enzo
 # Tutorial de Git + GitHub
 
-complete los datosn aquí!!!
+Pirmera vez:....
