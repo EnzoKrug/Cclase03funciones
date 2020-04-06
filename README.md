@@ -25,7 +25,7 @@ Pirmera vez:....
         git push
         git push Para poder subirlo a nuestro repositorio.
 
-#Orden de los comandos
+#Orden de los comandos:
 
 A- git clone (Unico)
         Iteracion:
@@ -34,6 +34,6 @@ B- git add .
 
 C- git commit -m "mensaje"
 
-Solo para subir a la web
+Solo para subir a la web:
 
 D- git push
